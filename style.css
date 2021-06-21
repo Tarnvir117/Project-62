@@ -1,0 +1,44 @@
+body {
+    text-align: center;
+    background-color: aqua;
+}
+
+#carousel {
+    background-color: cyan;
+}
+
+#carousel img {
+    height: 350px;
+    width: 350px;
+    border-width: 3px;
+    border-color: crimson;
+    border-style: dotted;
+}
+
+.links {
+    font-size: 30px;
+    display: inline;
+    font-family: cursive;
+}
+
+#home_section_photo{
+    height: 1000px;
+    width: 1700px;
+}
+
+img{
+    height: 300px;
+    width: 300px;
+}
+
+h1{
+    font-size: 45;
+}
+
+#iron{
+    margin-left: 770px;
+}
+
+#cap{
+     margin-left: 770px;
+}
